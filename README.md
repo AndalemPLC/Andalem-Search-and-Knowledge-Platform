@@ -14,7 +14,7 @@ Our goal is to design novel financial instruments that further connect African c
 
 ## We specialize in:
 - **Artificial Intelligence**: Developing robust AI strategies and custom solutions that align with capital market stakeholders.
-- **Advanced Research**: We are unwavering in our commitment to AI safety, ethical practices, and collaborative innovation. Our technologies undergo rigorous testing within regulatory sandboxes to meet the highest standards of safety and compliance. Moreover, we foster public-private consortia that unite government entities, private sector organizations, and communities to deploy AI solutions addressing Africa’s unique challenges. By aligning technological progress with societal values, we ensure the benefits of AI reach communities across the continent.
+- **Advanced Research**: We are unwavering in our commitment to AI safety, ethical practices, and collaborative innovation. Our technologies will undergo rigorous testing within regulatory sandboxes to meet the highest standards of safety and compliance. Moreover, we foster public-private consortia that unite government entities, private sector organizations, and communities to deploy AI solutions addressing Africa’s unique challenges. By aligning technological progress with societal values, we ensure the benefits of AI reach communities across the continent.
 
 ## Projects
 
